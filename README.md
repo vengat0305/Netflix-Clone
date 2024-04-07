@@ -2,6 +2,8 @@
 
 This project is a clone of the Netflix UI built using React.js. It aims to replicate the main functionalities and appearance of Netflix, including the landing page, browsing movies, and viewing movie details.
 
+[Netlify link] https://calm-chebakia-e8f271.netlify.app
+
 ![Netflix Clone](/netflix-clone/src/assets/Screenshot%202024-04-07%20120709.png)
 
 ## Features
